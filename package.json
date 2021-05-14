@@ -25,7 +25,8 @@
     "moment": "^2.29.1",
     "mongoose": "^5.12.7",
     "winston": "^3.3.3",
-    "winston-mongodb": "^5.0.7"
+    "winston-mongodb": "^5.0.7",
+    "nodemailer": "^6.6.0"
   },
   "bugs": {
     "url": "https://github.com/DilanJay/NIB304CEM--Web_API-CW/issues"
