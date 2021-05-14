@@ -1,3 +1,6 @@
+const Product = require('../models/Product');
+ObjectID = require('mongodb').ObjectID;
+
 const getProductById = async (req, res) => {
     try {
       const product = await Product.findById(req.params.id); // get individual product
