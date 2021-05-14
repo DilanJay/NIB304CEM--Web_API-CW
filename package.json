@@ -13,6 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "winston": "^3.3.3",
+    "winston-mongodb": "^5.0.7"
+  },
   "bugs": {
     "url": "https://github.com/DilanJay/NIB304CEM--Web_API-CW/issues"
   },
