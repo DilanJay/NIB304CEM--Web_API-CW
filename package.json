@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/DilanJay/NIB304CEM--Web_API-CW/issues"
   },
-  "homepage": "https://github.com/DilanJay/NIB304CEM--Web_API-CW#readme"
+  "homepage": "https://github.com/DilanJay/NIB304CEM--Web_API-CW#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  }
 }
